@@ -13,7 +13,7 @@ sortingAlgorithm.bubbleSort = function (arr) {
             }
 
         }
-        console.log(arr);
+
     }
     return arr;
 }
